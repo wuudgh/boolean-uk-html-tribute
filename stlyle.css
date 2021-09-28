@@ -1,0 +1,50 @@
+* {
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+  }
+  
+  /* .title-page,
+  .boat-page,
+  .content-page,
+  .book-page {
+    width: 400px;
+    height: 600px;
+  
+  }
+    padding: 20px;
+    margin: 50px;
+   */
+  
+  .page {
+    width: 300px;
+    height: 600px;
+  
+    padding: 20px;
+    margin: 50px;
+  }
+  
+  .title-page,
+  .boat-page,
+  .content-page,
+  .book-page {
+    width: 700px;
+    height: 900px;
+  
+    padding: 20px;
+    margin: 50px;
+  }
+  
+  .title-page,
+  .cover-page {
+    background-color: red;
+  }
+  
+  .light-shadow {
+    box-shadow: 0 7px 9px rgba(0, 0, 0, 0.4);
+  }
+  
+  .rounded-lg {
+    border-radius: 16px;
+  }
+  
